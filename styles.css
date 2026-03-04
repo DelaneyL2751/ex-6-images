@@ -19,3 +19,6 @@ h1 {
     margin-right: 315px;
     margin-left: 315px;
 }
+.image-with-border {
+    border-bottom: 20px solid; color: gold;
+}
